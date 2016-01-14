@@ -31,9 +31,26 @@ width: 325px;
 height: 44px;
 margin-bottom: 3px;
 color: #FFFFFF;
+margin-right: 0px;
 }
 .presentation{
   margin-top: 20px;
   width: 325px;
   color: #FFFFFF;
+}
+.connexion{
+  width: 303px;
+  height:120px;
+  background-color: #FFFFFF;
+  border-radius: 3px;
+
+}
+#button
+{
+  width: 106px;
+  height: 30px;
+  background-color: #4B99D3;
+  color:white;
+  border-color: #4B99D3;
+  border-radius: 4px;
 }
